@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-yasirteksen%40hotmail.com-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJtMjIgNy0xMCA2TDIgNyIvPjwvc3ZnPg==" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yasirteksen">
-    <img src="https://img.shields.io/badge/LinkedIn-Yasir%20Lokman%20Teksen-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-yasirteksen-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
 
   <br />
