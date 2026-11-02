@@ -89,6 +89,7 @@ I build web apps and databases, test what I build, and explain it so people unde
 | **Weft** | One plan for work, study and training that rearranges itself. Platform live on Azure, features in progress | C#, .NET, Azure SQL, Entra ID | [Website](https://weft.azurewebsites.net) · [About](https://github.com/Teksen42/Weft) |
 | **AAU CPH Events** | 2nd semester project, grade 12. Group leader of six, survey with 94 responses, 29 automated tests | Node.js, Express, MongoDB | [Repository](https://github.com/Teksen42/aau_cph_events) |
 | **Coordination system** | 3rd semester project: sign ups, hours and notifications for ~40 student ambassadors | Java, PostgreSQL, React, TypeScript | In progress |
+| **Websites & SEO** | Domains, hosting, schema markup, sitemaps and Google Search Console for three websites | HTML, CSS, JavaScript | [About](https://github.com/Teksen42/websites-and-seo) |
 | **Superliga SQL database** | High school project, grade 12. 9 tables, ER diagram, normalised to 3NF | SQL | [Repository](https://github.com/Teksen42/Superliga_SQL_Database_Project) |
 | **Portfolio** | My portfolio, in English and Danish | HTML, CSS, JavaScript | [teksen42.github.io](https://teksen42.github.io) |
 
