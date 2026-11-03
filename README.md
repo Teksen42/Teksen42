@@ -15,7 +15,7 @@
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=750&color=6366F1&center=true&vCenter=true&width=850&lines=Software+student+at+Aalborg+University+Copenhagen;Co-developed+Kvixa%3A+kiosks+and+online+ordering;Backend+in+C%23+and+.NET+on+Azure+with+Weft;Web+apps%2C+databases+and+the+tests+behind+them;Looking+for+a+student+job+in+software+or+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=750&color=6366F1&center=true&vCenter=true&width=850&lines=Software+student+at+Aalborg+University+Copenhagen;Co-developed+Kvixa%3A+kiosks+and+online+ordering;Backend+in+C%23+and+.NET+on+Azure+with+Weft;Building+Nabolys%3A+preparedness+that+works+offline;Web+apps%2C+databases+and+the+tests+behind+them;Looking+for+a+student+job+in+software+or+IT" alt="Typing SVG" />
 
 </div>
 
@@ -87,6 +87,7 @@ I build web apps and databases, test what I build, and explain it so people unde
 | --- | --- | --- | --- |
 | **Kvixa** | Kiosks and online ordering for takeaways, co-developed with study friends and used daily at a restaurant in Greve | Node.js, Express, MongoDB, Kotlin | [Website](https://kvixa.vestegnensit.dk) · [About](https://github.com/Teksen42/Kvixa) |
 | **Weft** | One plan for work, study and training that rearranges itself. Platform live on Azure, features in progress | C#, .NET, Azure SQL, Entra ID | [Website](https://weft.azurewebsites.net) · [About](https://github.com/Teksen42/Weft) |
+| **Nabolys** | Own project: an emergency preparedness app for Android and iPhone that works without the network. End-to-end encrypted, MVP built | C#, .NET, Azure SQL, React Native, Kotlin | [About](https://github.com/Teksen42/Nabolys-showcase) |
 | **AAU CPH Events** | 2nd semester project, grade 12. Group leader of six, survey with 94 responses, 29 automated tests | Node.js, Express, MongoDB | [Repository](https://github.com/Teksen42/aau_cph_events) |
 | **Coordination system** | 3rd semester project: sign ups, hours and notifications for ~40 student ambassadors | Java, PostgreSQL, React, TypeScript | In progress |
 | **Websites & SEO** | Domains, hosting, schema markup, sitemaps and Google Search Console for three websites | HTML, CSS, JavaScript | [About](https://github.com/Teksen42/websites-and-seo) |
