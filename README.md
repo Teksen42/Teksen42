@@ -15,7 +15,7 @@
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=750&color=6366F1&center=true&vCenter=true&width=850&lines=Software+student+at+Aalborg+University+Copenhagen;Co-developed+Kvixa%3A+kiosks+and+online+ordering;Backend+in+C%23+and+.NET+on+Azure+with+Weft;Building+Nabolys%3A+preparedness+that+works+offline;Web+apps%2C+databases+and+the+tests+behind+them;Looking+for+a+student+job+in+software+or+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=750&color=6366F1&center=true&vCenter=true&width=850&lines=Software+student+at+Aalborg+University+Copenhagen;Building+Nabolys%3A+preparedness+that+works+offline;Backend+in+C%23+and+.NET+on+Azure+with+Weft;Co-developed+Kvixa%3A+kiosks+and+online+ordering;Web+apps%2C+databases+and+the+tests+behind+them;Looking+for+a+student+job+in+software+or+IT" alt="Typing SVG" />
 
 </div>
 
@@ -31,15 +31,15 @@ Learning    Databases & software architecture, OOP in Java, system development
 Goal        MSc in cybersecurity
 ```
 
-I build web apps and databases, test what I build, and explain it so people understand it. With study friends I co-developed **Kvixa**, self-service kiosks and online ordering that a grill restaurant in Greve takes its orders on every day. With a fellow student I work on **Weft**, where I do backend in **C#** and **.NET**, frontend and testing, on a platform that runs on **Azure**.
+I build web apps and databases, test what I build, and explain it so people understand it. Right now I am building **Nabolys**, my own emergency preparedness app for Android and iPhone that works without the network, and with a fellow student I work on **Weft**, where I do backend in **C#** and **.NET**, frontend and testing, on a platform that runs on **Azure**. With study friends I co-developed **Kvixa**, self-service kiosks and online ordering that a grill restaurant in Greve takes its orders on every day.
 
 <div align="center">
 
 | Currently Building | Currently Learning | Looking For |
 | --- | --- | --- |
-| A coordination system for ~40 student ambassadors | SQL, ER diagrams, transactions and indexing | A student job in software, data or IT |
+| Nabolys: a preparedness app that works without the network | SQL, ER diagrams, transactions and indexing | A student job in software, data or IT |
 | Weft: C# and .NET backend on Azure | Object-oriented programming in Java | 10 to 15 hours a week next to my studies |
-| Kvixa: kiosks and online ordering | Cybersecurity at Hacking Evenings with CyberSkills and PROSA | Teams that build things people use |
+| A coordination system for ~40 student ambassadors | Cybersecurity at Hacking Evenings with CyberSkills and PROSA | Teams that build things people use |
 
 </div>
 
@@ -85,9 +85,9 @@ I build web apps and databases, test what I build, and explain it so people unde
 
 | Project | What It Is | Stack | Link |
 | --- | --- | --- | --- |
-| **Kvixa** | Kiosks and online ordering for takeaways, co-developed with study friends and used daily at a restaurant in Greve | Node.js, Express, MongoDB, Kotlin | [Website](https://kvixa.vestegnensit.dk) · [About](https://github.com/Teksen42/Kvixa) |
+| **Nabolys** | Own project in development: an emergency preparedness app for Android and iPhone that works without the network. End-to-end encrypted, MVP built | C#, .NET, Azure SQL, React Native, Kotlin | [Website](https://nabolys.azurewebsites.net/) · [About](https://github.com/Teksen42/Nabolys-showcase) |
 | **Weft** | One plan for work, study and training that rearranges itself. Platform live on Azure, features in progress | C#, .NET, Azure SQL, Entra ID | [Website](https://weft.azurewebsites.net) · [About](https://github.com/Teksen42/Weft) |
-| **Nabolys** | Own project: an emergency preparedness app for Android and iPhone that works without the network. End-to-end encrypted, MVP built | C#, .NET, Azure SQL, React Native, Kotlin | [Website](https://nabolys.azurewebsites.net/) · [About](https://github.com/Teksen42/Nabolys-showcase) |
+| **Kvixa** | Kiosks and online ordering for takeaways, co-developed with study friends and used daily at a restaurant in Greve | Node.js, Express, MongoDB, Kotlin | [Website](https://kvixa.vestegnensit.dk) · [About](https://github.com/Teksen42/Kvixa) |
 | **AAU CPH Events** | 2nd semester project, grade 12. Group leader of six, survey with 94 responses, 29 automated tests | Node.js, Express, MongoDB | [Repository](https://github.com/Teksen42/aau_cph_events) |
 | **Coordination system** | 3rd semester project: sign ups, hours and notifications for ~40 student ambassadors | Java, PostgreSQL, React, TypeScript | In progress |
 | **Websites & SEO** | Domains, hosting, schema markup, sitemaps and Google Search Console for three websites | HTML, CSS, JavaScript | [About](https://github.com/Teksen42/websites-and-seo) |
@@ -102,14 +102,14 @@ I build web apps and databases, test what I build, and explain it so people unde
 
 <div align="center">
 
-| Code & Data | Security, UX & BI | Aalborg University ProLab |
+| Code & Data | Security, UX & BI | AAU ProLab & IDA |
 | --- | --- | --- |
 | Learn SQL | Fundamentals of Cybersecurity | Generativ AI i studiepraksis |
 | How to Transform Tables with SQL | UX Designer Career Path | Samarbejde på tværs af fagligheder |
-| Learn Java: Object-Oriented Programming | BI Dashboards with Power BI | |
+| Learn Java: Object-Oriented Programming | BI Dashboards with Power BI | Frontend udvikling i React/JavaScript |
 | Learn JavaScript | | |
 
-<a href="https://www.linkedin.com/in/yasirteksen/details/certifications/">See all nine on LinkedIn</a>
+<a href="https://www.linkedin.com/in/yasirteksen/details/certifications/">See them on LinkedIn</a>
 
 </div>
 
