@@ -85,8 +85,8 @@ I build web apps and databases, test what I build, and explain it so people unde
 
 | Project | What It Is | Stack | Link |
 | --- | --- | --- | --- |
-| **Nabolys** | Own project in development: an emergency preparedness app for Android and iPhone that works without the network. End-to-end encrypted, MVP built | C#, .NET, Azure SQL, React Native, Kotlin | [Website](https://nabolys.azurewebsites.net/) · [About](https://github.com/Teksen42/Nabolys-showcase) |
-| **Weft** | One plan for work, study and training that rearranges itself. Platform live on Azure, features in progress | C#, .NET, Azure SQL, Entra ID | [Website](https://weft.azurewebsites.net) · [About](https://github.com/Teksen42/Weft) |
+| **Nabolys** | Own project, on its way: a preparedness app for families and neighbours on Android and iPhone. Messages and voice go over Bluetooth when the network is down | C#, .NET, Azure SQL, React Native, Kotlin | [Website](https://nabolys.azurewebsites.net/) · [About](https://github.com/Teksen42/Nabolys-showcase) |
+| **Weft** | One plan for work, study and training that rearranges itself when something moves. The platform runs on Azure today, and the product features are being finished before release. | C#/.NET 8, Azure SQL, Entra ID, Bicep, GitHub Actions, React Native | [Website](https://weft.azurewebsites.net) · [About](https://github.com/Teksen42/Weft) |
 | **Kvixa** | Kiosks and online ordering for takeaways, co-developed with study friends and used daily at a restaurant in Greve | Node.js, Express, MongoDB, Kotlin | [Website](https://kvixa.vestegnensit.dk) · [About](https://github.com/Teksen42/Kvixa) |
 | **AAU CPH Events** | 2nd semester project, grade 12. Group leader of six, survey with 94 responses, 29 automated tests | Node.js, Express, MongoDB | [Repository](https://github.com/Teksen42/aau_cph_events) |
 | **Coordination system** | 3rd semester project: sign ups, hours and notifications for ~40 student ambassadors | Java, PostgreSQL, React, TypeScript | In progress |
